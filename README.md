@@ -28,7 +28,7 @@
    git clone https://github.com/justmanass/Stroke-Detection-Using-Brain-MRI.git
    cd Stroke-Detection-Using-Brain-MRI
 Results
-- DenseNet121 achieved X% accuracy and Y AUC on validation set.
-- ResNet50 achieved Z% accuracy and W AUC.
-(Replace X, Y, Z, W with your actual results)
+- DenseNet121 achieved 93% accuracy and Y AUC on validation set.
+- ResNet50 achieved 92% accuracy and W AUC.
+
 
